@@ -83,11 +83,11 @@ quality audio for an enhanced user experience.
 
 ## Circuit Design:
 
-![Circuit Design Image](/Circuit Design.png "Circuit Design")
+![Circuit Design Image](/CircuitDesign.png "Circuit Design")
 
 ## Real Project Images
 
-![Complete Project Circuitry](/Complete Project Circuitry.JPEG "Complete Project Circuitry") <br>
+![Complete Project Circuitry](/CompleteProjectCircuitry.JPEG "Complete Project Circuitry") <br>
 
 ![PCB With Components (Except Speaker)](/PCBWithComponents(ExceptSpeaker).JPEG "PCB With Components (Except Speaker)") <br>
 
