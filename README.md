@@ -66,3 +66,21 @@ consumption and system resources to optimize performance.
 A speaker is connected to the output of the DFPlayer MP3 module to provide audio output. The DFPlayer
 module decodes the audio files and sends them to the speaker for playback. The speaker delivers high-
 quality audio for an enhanced user experience.
+
+## Components
+
+### Hardware:
+
+• STM32F103C8 MCU
+• DFPlayer MP3 Module
+• HC-05 Bluetooth Module
+• 0.5W 8Ω Speaker
+• PCB
+
+### Software:
+
+• Bluetooth Commander Android Application
+
+## Circuit Design:
+
+
