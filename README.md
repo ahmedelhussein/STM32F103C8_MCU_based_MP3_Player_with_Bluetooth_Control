@@ -71,10 +71,10 @@ quality audio for an enhanced user experience.
 
 ### Hardware:
 
-• STM32F103C8 MCU
-• DFPlayer MP3 Module
-• HC-05 Bluetooth Module
-• 0.5W 8Ω Speaker
+• STM32F103C8 MCU <br>
+• DFPlayer MP3 Module <br>
+• HC-05 Bluetooth Module <br>
+• 0.5W 8Ω Speaker <br>
 • PCB
 
 ### Software:
