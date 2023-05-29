@@ -87,9 +87,9 @@ quality audio for an enhanced user experience.
 
 ## Real Project Images
 
-![Complete Project Circuitry](/Complete Project Circuitry.JPEG "Complete Project Circuitry" | width = 300 | height = 300) <br>
+![Complete Project Circuitry](/Complete Project Circuitry.JPEG "Complete Project Circuitry") <br>
 
-![PCB With Components (Except Speaker)](/PCBWithComponents(ExceptSpeaker).JPEG "PCB With Components (Except Speaker)") <br>
+![PCB With Components (Except Speaker)](/PCBWithComponents(ExceptSpeaker).JPEG "PCB With Components (Except Speaker)"  | width = 300 | height = 300) <br>
 
 ![Speaker](/Speaker.JPEG "Speaker") <br>
 
